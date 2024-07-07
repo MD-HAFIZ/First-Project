@@ -54,6 +54,12 @@ ul, ol{
     background-color: #0771b9;
     padding: 15px 0;
 }
+
+.row-col{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 .text-col{
     font-size: 32px;
     font-weight: 700px;
